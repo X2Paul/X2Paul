@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @X2Paul
 - 👀 I’m interested in IT industry.
 - 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on Junior Java Developers
 - 📫 How to reach me paulroll27@gmail.com
 
 <!---
